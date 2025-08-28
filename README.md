@@ -5,14 +5,14 @@ The notebook demonstrates a complete data science workflow: from data cleaning a
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 - **Goal:** Predict car fuel efficiency (MPG) based on vehicle specifications.
 - **Dataset:** Auto MPG (398 cars, 9 features, mix of numerical and categorical variables).
 - **Approach:** Regression modeling with diagnostics and comparison.
 
 ---
 
-## 🛠️ Workflow
+## Workflow
 
 1. **Data Cleaning & Preprocessing**
    - Handle missing values in horsepower.
@@ -47,14 +47,14 @@ The notebook demonstrates a complete data science workflow: from data cleaning a
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - `Polished_Regression_Notebook.ipynb` → Main analysis notebook.
 - `README.md` → Project description and usage.
 - (Optional) `auto-mpg.csv` → Dataset (if redistribution allowed, otherwise link to source).
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/auto-mpg-regression.git
